@@ -6,5 +6,6 @@ target/
 /.metals/
 /project/metals.sbt
 
-# IntelliJ
-.idea
+# IDEs
+/.idea/
+/.vscode/
