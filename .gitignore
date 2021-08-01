@@ -1,0 +1,10 @@
+# sbt
+target/
+
+# Metals
+/.bloop/
+/.metals/
+/project/metals.sbt
+
+# IntelliJ
+.idea
